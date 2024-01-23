@@ -1,6 +1,4 @@
-A
-B
-C
-D
-피처 작업내용 추가2
-추가추가
+local 작업내역
+local 작업내역
+local 작업내역
+local 작업내역
